@@ -1,0 +1,16 @@
+1. Australian Cyber Security Centre (2024). Annual Cyber Threat Report 2023–24.
+Canberra: ACSC. Case Study 10 (pp. 41).
+Documents the ATO phishing campaign using QR codes leading to fake myGov login pages, used for credential harvesting and redirecting payments.
+https://www.cyber.gov.au/about-us/view-all-content/reports-and-statistics/annual-cyber-threat-report-2023-2024
+
+
+2. Australian Cyber Security Centre (2023). Email scam advisory.
+ https://www.cyber.gov.au 
+
+3. MITRE ATT&CK (2024). Adversary Tactics and Techniques Knowledge Base.
+Use to map every node to specific MITRE techniques .
+https://attack.mitre.org/
+
+4. MITRE Center for Threat-Informed Defense (2024). Attack Flow Project.
+Provides the framework for how to model the ATO phishing incident as a multi-stage attack chain.
+https://ctid.mitre.org/projects/attack-flow/

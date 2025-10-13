@@ -176,13 +176,11 @@ Credential-dumping & detection resources
 
 Mimikatz (gentilkiwi) — project page (detection context only): https://github.com/gentilkiwi
 . 
-GitHub
 
-Background articles & detection playbooks for credential dumping (consult vendor & detection blogs; do not publish PoC code).
 
-Suggested citation format (for nodes)
 
-When adding an External Reference to a node, paste one concise line like the examples below (adjust the node name and pick 1–2 links per node):
+
+
 
 MSP-EXPLOIT-USE-CACHED-SESS — ACSC case materials (MSP AVD cached-session, early 2024). :contentReference[oaicite:35]{index=35}; Microsoft Entra revoke docs — https://learn.microsoft.com/en-us/entra/identity/users/users-revoke-access. :contentReference[oaicite:36]{index=36}
 

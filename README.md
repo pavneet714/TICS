@@ -10,4 +10,4 @@ Attack flows completed on :
 4. BlackCat ransomware attack
 5. Citrix NetScaler attack
 6. Latitude Financial data breach
-7. 
+7. Western Sydeney University credential compromise
